@@ -1,0 +1,27 @@
+{
+  "name": "أوسمة الأخلاق الجميلة",
+  "short_name": "أوسمة",
+  "description": "مسابقة أوسمة ومهام للأطفال",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "dir": "rtl",
+  "lang": "ar",
+  "background_color": "#fff6d6",
+  "theme_color": "#7c5cff",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
